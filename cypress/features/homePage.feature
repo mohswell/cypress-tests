@@ -22,7 +22,7 @@ Feature: Dashboard
         And I should see the <item>
         Examples: 
             | item               |
-            | Solutech logo      |
+            |  logo              |
             | search bar         |
             | user profile icon  |
 

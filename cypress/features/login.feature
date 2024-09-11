@@ -1,4 +1,4 @@
-Feature: Login into Solutechlabs
+Feature: Login into WEB application
     As a user
     i want to login
     So that I can access my account
@@ -40,7 +40,6 @@ Feature: Login into Solutechlabs
         Given I am on the login page
         When I click on the forgot password link
         Then I should be redirected to the forgot password page
-
 
     Scenario: Test login attempts
         Given I am on the login page
