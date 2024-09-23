@@ -38,8 +38,8 @@
 //         url: 'https://app.solutechlabs.com/login',
 //         form: true,
 //         body: {
-//           email: 'muhammad@solutech.com',
-//           password: '0787934996',
+//           email: 'test@gmail.com',
+//           password: '@password123123',
 //           _token: token,
 //         },
 //       }).then((res) => {
